@@ -4,9 +4,9 @@ const nextConfig = {
 		remotePatterns: [
 			{
         protocol: 'https',
-        hostname: 'res.cloudinary.com',
+        hostname: 'media2.dev.to',
         port: '',
-        pathname: '/practicaldev/**',
+        pathname: '/dynamic/image/**',
       }
 		],
 	},
