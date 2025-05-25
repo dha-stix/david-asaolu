@@ -11,7 +11,7 @@ export default function Home() {
     <main>
       <Nav/>
       <Header />
-      <BlogSection />
+       <BlogSection />
       <Portfolio />
       <Contact/>
     </main>
