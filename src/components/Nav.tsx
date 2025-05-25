@@ -13,7 +13,7 @@ export default function Nav() {
                     <ScrollLink to="blog" className="hover:text-white md:block hidden cursor-pointer" activeClass="active" spy={true} smooth={true} offset={-70} duration={500}>Blog</ScrollLink>
                     <ScrollLink to="portfolio"  className="hover:text-white md:block hidden cursor-pointer" activeClass="active" spy={true} smooth={true} offset={-70} duration={500}>Portfolio</ScrollLink>
                     <ScrollLink to="contact"  className="hover:text-white md:block hidden cursor-pointer" activeClass="active" spy={true} smooth={true} offset={-70} duration={500}>Contact</ScrollLink>
-                    <Link href="https://drive.google.com/file/d/1w0DzCh97VukgHjEC1CLbJC_fOActceqb/view?usp=sharing" target="_blank" className="px-4 py-2 bg-green-600 text-green-50 rounded">RESUME</Link>
+                    <Link href="https://drive.google.com/file/d/11MCXC8WIH27BJ6OLNylfEZskMkrf_kk-/view?usp=sharing" target="_blank" className="px-4 py-2 bg-green-600 text-green-50 rounded">RESUME</Link>
                 </div>
             </nav>
     )
